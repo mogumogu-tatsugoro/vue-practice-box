@@ -1,11 +1,11 @@
 <template>
-  <div class="test">
-    test
+  <div>
+    child
   </div>
 </template>
 
 <style lang="scss" scoped>
-.test {
-  color: red;
+div {
+  color: lightcoral;
 }
 </style>
