@@ -1,5 +1,5 @@
 <template>
-  <el-row>
+  <el-row :gutter=20>
     <el-col :span="8">
       <div class="grid-content bg-purple-dark">
         吾輩は猫である。名前はまだない。どこで生れたか頓と見当がつかぬ。何でも薄暗いじめじめした所でニャーニャー泣いていた事だけは記憶している。
